@@ -1,1 +1,6 @@
 # DB_Experience
+## Desafios de Projeto do curso Database Experience (DIO)
+
+* Desafio de Projeto Banco de Dados SQL #3: *Construindo seu Primeiro Projeto Lógico de Banco de Dados*  
+* Desafio de Projeto Banco de Dados SQL #4: *Construa um Projeto Lógico de Banco de Dados do Zero*  
+* Desafio de Projeto Banco de Dados NoSQL #1: *O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados*  
