@@ -3,4 +3,4 @@
 
 * Desafio de Projeto Banco de Dados SQL #3: *Construindo seu Primeiro Projeto Lógico de Banco de Dados*  
 * Desafio de Projeto Banco de Dados SQL #4: *Construa um Projeto Lógico de Banco de Dados do Zero*  
-* Desafio de Projeto Banco de Dados NoSQL #1: *O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados*  
+* Desafio de Projeto Banco de Dados NoSQL #1: [*O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados*](https://github.com/msidesique/DB_Experience/blob/main/Desafio%20de%20Projeto%20NoSQL.md)  
